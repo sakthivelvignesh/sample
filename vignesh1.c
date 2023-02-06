@@ -3,7 +3,7 @@
 int main()
 {
 
-	int a=1,b=5,c,d;
+	int a=11,b=5,c,d;
 	c=a+b;
 	d=b-a;
 	printf("%d",c);
