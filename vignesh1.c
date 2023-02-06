@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-	int a=2,b=5,c,d;
+	int a=3,b=5,c,d;
 	c=a+b;
 	d=b-a;
 	printf("%d",c);
